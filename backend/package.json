@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Mr-Dipak/Gyan-Prabha-Foundation/issues"
   },
-  "homepage": "https://github.com/Mr-Dipak/Gyan-Prabha-Foundation#readme"
+  "homepage": "https://github.com/Mr-Dipak/Gyan-Prabha-Foundation#readme",
+  "dependencies": {
+    "express": "^4.18.3"
+  }
 }
