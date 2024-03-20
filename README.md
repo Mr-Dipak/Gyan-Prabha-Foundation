@@ -18,7 +18,7 @@ To get started, please review our [contribution guidelines](CONTRIBUTING.md) for
 The Gyan Prabha Foundation project is licensed under the [MIT License](LICENSE), which allows for free use, modification, and distribution of the software. See the [LICENSE](LICENSE) file for more details.
 
 ## Contact
-For any inquiries or suggestions regarding the Gyan Prabha Foundation project, please contact us at [foundation@gyanprabha.org](mailto:foundation@gyanprabha.org).
+For any inquiries or suggestions regarding the Gyan Prabha Foundation project, please contact us at Gmail: mr.dipaknrathod@gmail.com
 
 Thank you for joining us on this journey to make education accessible to all!
 
