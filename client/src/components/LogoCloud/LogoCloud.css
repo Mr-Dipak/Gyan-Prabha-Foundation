@@ -1,0 +1,28 @@
+.logos-scroller {
+    position: relative;
+    width: 100%;
+    overflow: hidden;
+}
+
+.logos-track {
+    display: flex;
+    width: calc(200%); /* Adjust based on the number of logos */
+    animation: scroll 20s linear infinite;
+}
+
+.logo {
+    flex: 0 0 auto;
+    width: 158px; /* Adjust as needed */
+    height: 48px; /* Adjust as needed */
+    object-fit: contain;
+    margin: 0 20px; /* Adjust as needed */
+}
+
+@keyframes scroll {
+    0% {
+        transform: translateX(0);
+    }
+    100% {
+        transform: translateX(-50%);
+    }
+}
